@@ -1,0 +1,5 @@
+{
+  "name": "NexAI - Universal Chat & Career Analyst",
+  "description": "A dual-mode AI application featuring a versatile multi-modal chat interface and a dedicated Career Analysis mode. Supports file uploads, real-time web grounding for job market data, and model switching.",
+  "requestFramePermissions": []
+}
